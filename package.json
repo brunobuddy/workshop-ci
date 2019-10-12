@@ -1,0 +1,20 @@
+{
+  "name": "workshop-express-example",
+  "version": "1.0.0",
+  "description": "an simple Express application",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "mocha server.test.js",
+    "danger": "danger ci"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "mocha": "^6.2.0",
+    "supertest": "^4.0.2"
+  }
+}
