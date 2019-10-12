@@ -1,9 +1,11 @@
 # Atelier sur l'intégration continue
 
+# Test change
+
 > This project contains all the documentation needed for a basic workshop on CI
-implementation on a project versionned with Git. As this workshop is created for
-[Paris Web](https://www.paris-web.fr/) 2019, all the content will be in French.
-You are welcome to provide translations of this project.
+> implementation on a project versionned with Git. As this workshop is created for
+> [Paris Web](https://www.paris-web.fr/) 2019, all the content will be in French.
+> You are welcome to provide translations of this project.
 
 Ce projet contient toute la documentation nécessaire pour un atelier basique sur
 l'implémentation d'une intégration continue sur un projet versionné avec Git.
@@ -16,6 +18,7 @@ Et maintenant, commençons !
 ## Pré-requis
 
 Pour pouvoir suivre cet atelier en toute tranquilité, il vous faudra :
+
 - avoir une connaissance basique de Git,
 - avoir votre propre compte GitHub.
 
